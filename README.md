@@ -20,6 +20,8 @@ Un currículum online responsive creado con HTML y CSS, diseñado para ser limpi
 
 📂 Ubicación: `./01-cv-online/`
 
+https://roadmap.sh/projects/single-page-cv
+
 
 ## 📌 Cómo clonar el repo
 
