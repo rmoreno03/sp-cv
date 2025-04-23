@@ -1,0 +1,99 @@
+/* Fuente elegante desde Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap');
+
+:root {
+  --primary-color: #007ACC;
+  --accent-color: #4CAF50;
+  --text-color: #333;
+  --bg-color: #f9f9f9;
+  --section-bg: #ffffff;
+  --border-color: #e0e0e0;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Poppins', sans-serif;
+  background-color: var(--bg-color);
+  color: var(--text-color);
+  line-height: 1.6;
+  padding: 2rem;
+}
+
+header {
+  border-bottom: 3px solid var(--primary-color);
+  margin-bottom: 2rem;
+  padding-bottom: 1rem;
+}
+
+h1 {
+  font-size: 2.5rem;
+  color: var(--primary-color);
+}
+
+h2 {
+  color: var(--accent-color);
+  font-weight: 400;
+  margin-top: 0.3rem;
+}
+
+address {
+  font-style: normal;
+  margin-top: 1rem;
+}
+
+main section {
+  margin-bottom: 2rem;
+  padding: 1.5rem;
+  background-color: var(--section-bg);
+  border: 1px solid var(--border-color);
+  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+}
+
+h3 {
+  border-left: 5px solid var(--primary-color);
+  padding-left: 1rem;
+  margin-bottom: 1rem;
+  color: var(--primary-color);
+  font-size: 1.4rem;
+}
+
+h4 {
+  color: var(--accent-color);
+  font-size: 1.1rem;
+  margin-bottom: 0.3rem;
+}
+
+ul {
+  padding-left: 1.2rem;
+  list-style: disc;
+  margin-bottom: 1rem;
+}
+
+footer {
+  text-align: center;
+  font-size: 0.9rem;
+  padding-top: 1rem;
+  border-top: 1px solid var(--border-color);
+  color: #888;
+}
+
+/* Responsive improvements */
+@media (max-width: 768px) {
+  body {
+    padding: 1rem;
+  }
+
+  h1 {
+    font-size: 2rem;
+  }
+
+  main section {
+    padding: 1rem;
+  }
+}
