@@ -20,8 +20,26 @@ Un currículum online responsive creado con HTML y CSS, diseñado para ser limpi
 
 📂 Ubicación: `./01-cv-online/`
 
-https://roadmap.sh/projects/single-page-cv
+🔗 [Ver reto en roadmap.sh](https://roadmap.sh/projects/single-page-cv)
 
+---
+
+### 02 - Sitio Web HTML Multipágina
+
+Sitio web multipágina sin estilos (solo HTML) que representa una estructura profesional reutilizable. Incluye:
+
+- 4 páginas: Inicio, Proyectos, Artículos y Contacto.
+- Navegación común en todas las páginas.
+- Estructura semántica con `header`, `main`, `section`, `article` y `footer`.
+- Etiquetas meta para SEO en cada página.
+- Formulario funcional en la página de contacto (sin backend).
+- Archivo `styles.css` para aplicar estilos básicos con fuente Poppins.
+
+📂 Ubicación: `./02-html-structure-only/`
+
+🔗 [Ver reto en roadmap.sh](https://roadmap.sh/projects/basic-html-website)
+
+---
 
 ## 📌 Cómo clonar el repo
 
