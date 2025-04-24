@@ -70,6 +70,21 @@ Componente visual y funcional para mostrar un registro de cambios (changelog). D
 
 ---
 
+### 05 - Componente Testimonios
+
+Componente moderno de tarjetas de testimonios diseñado con HTML y CSS. Muestra múltiples tipos de testimonios con diferentes estructuras visuales (tarjeta pequeña, grande, completa). Ideal para mostrar feedback de usuarios o clientes. Incluye:
+
+- Diseño profesional con estructura adaptable.
+- Tarjetas con imágenes redondas, nombre, cargo y mensaje.
+- Estilo elegante con Poppins y buen uso del box-shadow.
+- Versión "carousel" básica con botones e imagen central.
+- Componentes independientes y reutilizables.
+
+📂 Ubicación: `./05-testimonials/`  
+🔗 [Ver reto en roadmap.sh](https://roadmap.sh/projects/testimonial-component)
+
+---
+
 ## 📌 Cómo clonar el repo
 
 ```bash

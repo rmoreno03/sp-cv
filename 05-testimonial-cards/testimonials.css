@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap');
+
+body {
+  font-family: 'Poppins', sans-serif;
+  background-color: #f7f7f7;
+  margin: 0;
+  padding: 2rem;
+  display: flex;
+  justify-content: center;
+}
+
+.testimonials {
+  display: grid;
+  gap: 2rem;
+  max-width: 900px;
+  width: 100%;
+}
+
+.card {
+  background: white;
+  padding: 1.5rem;
+  border-radius: 16px;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.05);
+}
+
+.card.small {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.card.large {
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.card.full {
+  text-align: center;
+}
+
+.profile {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin-top: 1rem;
+}
+
+.profile img {
+  width: 48px;
+  height: 48px;
+  border-radius: 50%;
+}
+
+.card.large .photo {
+  width: 100px;
+  border-radius: 12px;
+}
+
+.card.large .text {
+  flex: 1;
+}
+
+.stars {
+  color: gold;
+  font-size: 1.2rem;
+}
+
+.role {
+  color: gray;
+  font-size: 0.9rem;
+  margin-bottom: 0.5rem;
+}
+
+.carousel {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+  margin: 1rem 0;
+}
+
+.carousel button {
+  background: #eee;
+  border: none;
+  border-radius: 50%;
+  width: 32px;
+  height: 32px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.carousel img {
+  width: 48px;
+  border-radius: 50%;
+}
+
+.name {
+  font-weight: bold;
+}
