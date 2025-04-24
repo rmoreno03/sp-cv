@@ -55,6 +55,21 @@ Extensión del proyecto anterior donde se aplican estilos con CSS para hacerlo v
 
 ---
 
+### 04 - Componente Changelog
+
+Componente visual y funcional para mostrar un registro de cambios (changelog). Diseñado con CSS puro usando Flexbox y Grid. Se ajusta perfectamente a pantallas móviles y de escritorio. Incluye:
+
+- Estructura tipo timeline con fechas alineadas a la izquierda.
+- Línea vertical central con puntos representando eventos.
+- Pseudo-elementos para líneas limpias y controladas.
+- Responsive total y animación de hover en puntos (bonus).
+- Preparado para integrarse como componente en cualquier web.
+
+📂 Ubicación: `./04-changelog-component/`  
+🔗 [Ver reto en roadmap.sh](https://roadmap.sh/projects/changelog-component)
+
+---
+
 ## 📌 Cómo clonar el repo
 
 ```bash
