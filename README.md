@@ -51,7 +51,7 @@ Extensión del proyecto anterior donde se aplican estilos con CSS para hacerlo v
 - Buen uso del modelo de caja, espaciados y organización visual.
 
 📂 Ubicación: `./03-responsive-styling/`  
-🔗 [Ver reto en roadmap.sh](https://roadmap.sh/projects/styling-html)
+🔗 [Ver reto en roadmap.sh](https://roadmap.sh/projects/portfolio-website)
 
 ---
 
