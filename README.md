@@ -81,7 +81,7 @@ Componente moderno de tarjetas de testimonios diseñado con HTML y CSS. Muestra 
 - Componentes independientes y reutilizables.
 
 📂 Ubicación: `./05-testimonials/`  
-🔗 [Ver reto en roadmap.sh](https://roadmap.sh/projects/testimonial-component)
+🔗 [Ver reto en roadmap.sh](https://roadmap.sh/projects/testimonial-cards)
 
 ---
 
